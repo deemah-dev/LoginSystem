@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qOYirbe1dPg=",
+  "dgSpecHash": "SLP6d0caQNs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\14.1.0\\mediatr.14.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

@@ -19,3 +19,4 @@ C:\Users\ASUS\source\VSCodeRepos\LoginSystem\backend\tests\Tests.Common\obj\Debu
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\backend\tests\Tests.Common\obj\Debug\net10.0\Tests.Common.pdb
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\backend\tests\Tests.Common\obj\Debug\net10.0\Tests.Common.genruntimeconfig.cache
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\backend\tests\Tests.Common\obj\Debug\net10.0\ref\Tests.Common.dll
+c:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Tests.Common\obj\Debug\net10.0\Tests.Common.sourcelink.json

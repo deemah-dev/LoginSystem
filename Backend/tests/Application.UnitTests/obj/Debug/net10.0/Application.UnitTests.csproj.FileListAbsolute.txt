@@ -203,3 +203,4 @@ C:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Application.UnitTests
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Application.UnitTests\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Application.UnitTests\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Application.UnitTests\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\ASUS\source\VSCodeRepos\LoginSystem\Backend\tests\Application.UnitTests\obj\Debug\net10.0\Application.UnitTests.sourcelink.json
