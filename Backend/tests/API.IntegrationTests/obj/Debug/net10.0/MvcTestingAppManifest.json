@@ -1,0 +1,7 @@
+{
+  "API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\API",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\src\\Infrastructure",
+  "Tests.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\ASUS\\source\\VSCodeRepos\\LoginSystem\\Backend\\tests\\Tests.Common"
+}

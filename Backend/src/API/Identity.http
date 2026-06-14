@@ -1,0 +1,40 @@
+@baseUrl = https://localhost:5050/identity
+@access-token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4ZGZmMjllZS1hMmIxLTQ4ZTctYTg2NS0yNWQxMWRlOWU2NTEiLCJlbWFpbCI6ImFsaUBnbWFpbC5jb20iLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE3ODA0OTU5NzcsImV4cCI6MTc4MDQ5Njg3NywiaWF0IjoxNzgwNDk1OTc3LCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.0lBICFcvtNVSt9MbUFUo0svzNjU_16yLSWJt9nJZYEA
+@refresh-token = 4ZDvLEP4ChlZOIHciAuBtVhO9r6I9wZWQW++hm8MVOY=
+
+###
+POST {{baseUrl}}/user/register
+Content-Type: application/json
+
+{
+    "Email" : "test@gmail.com",
+    "Username" : "test",
+    "Password" : "Test123",
+    "Role": "Admin"
+}
+
+###
+POST {{baseUrl}}/token/generate
+Content-Type: application/json
+
+{
+    "Email" : "alian@gmail.com",
+    "Password" : "testtest"
+}
+
+###
+GET {{baseUrl}}/current-user/claims
+Authorization: Bearer {{access-token}}
+
+###
+POST {{baseUrl}}/token/refresh
+Content-Type: application/json
+
+{
+    "RefreshToken" : "{{refresh-token}}",
+    "ExpiredAccessToken" : "{{access-token}}"
+}
+
+### 
+POST {{baseUrl}}/token/revoke
+Authorization: Bearer {{access-token}}

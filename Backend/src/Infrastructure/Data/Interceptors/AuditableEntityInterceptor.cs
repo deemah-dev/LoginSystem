@@ -1,0 +1,1 @@
+namespace Infrastructure.Data.Interceptors;
